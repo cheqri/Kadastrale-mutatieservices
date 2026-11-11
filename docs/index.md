@@ -6,7 +6,7 @@ title: StUF-koppelvlak Kadastrale mutatieservices
 
 **Actuele versie:** 1.0.0  
 **Beheerder:**  VNG Realisatie<br/>
-**Status:** <span style="color:red">Einde ondersteuning</span>
+**Status:** <span style="color:red">Administratief afgesloten</span>
 
 ### <span style="color:red">In het kader van de verdere ontwikkeling van de gemeentelijke informatievoorziening richting API-standaarden heeft VNG Realisatie in 2025 een landelijke inventarisatie uitgevoerd. Op basis van de inventarisatie is het koppelvlak StUF kadastrale mutatiesservices aangemerkt als buiten scope voor verdere doorontwikkeling. Zie [hier](https://www.gemmaonline.nl/wiki/Uitkomsten_inventarisatie_StUF-koppelvlakken?mtm_campaign=nieuwsbrief&mtm_kwd=q2_2026) het daarover op 13 mei 2026 op GEMMA Online geplaatste bericht. Vanaf 1 september 2026 is dit koppelvlak administratief afgesloten.</span><br/>
 ### <span style="color:red">T.b.v. de bestaande gebruikers van deze standaard handhaven we deze site.</span><br/>
